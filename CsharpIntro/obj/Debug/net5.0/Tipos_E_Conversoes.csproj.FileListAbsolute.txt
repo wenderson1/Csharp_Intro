@@ -1,0 +1,16 @@
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\Tipos_E_Conversoes.exe
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\Tipos_E_Conversoes.deps.json
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\Tipos_E_Conversoes.runtimeconfig.json
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\Tipos_E_Conversoes.runtimeconfig.dev.json
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\Tipos_E_Conversoes.dll
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\ref\Tipos_E_Conversoes.dll
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\Tipos_E_Conversoes.pdb
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\Tipos_E_Conversoes.csprojAssemblyReference.cache
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\Tipos_E_Conversoes.GeneratedMSBuildEditorConfig.editorconfig
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\Tipos_E_Conversoes.AssemblyInfoInputs.cache
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\Tipos_E_Conversoes.AssemblyInfo.cs
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\Tipos_E_Conversoes.csproj.CoreCompileInputs.cache
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\Tipos_E_Conversoes.dll
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\ref\Tipos_E_Conversoes.dll
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\Tipos_E_Conversoes.pdb
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\Tipos_E_Conversoes.genruntimeconfig.cache

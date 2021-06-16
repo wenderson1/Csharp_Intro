@@ -1,0 +1,16 @@
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\CsharpIntro.exe
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\CsharpIntro.deps.json
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\CsharpIntro.runtimeconfig.json
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\CsharpIntro.runtimeconfig.dev.json
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\CsharpIntro.dll
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\ref\CsharpIntro.dll
+A:\workspace\.net\CsharpIntro\CsharpIntro\bin\Debug\net5.0\CsharpIntro.pdb
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\CsharpIntro.csprojAssemblyReference.cache
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\CsharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\CsharpIntro.AssemblyInfoInputs.cache
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\CsharpIntro.AssemblyInfo.cs
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\CsharpIntro.csproj.CoreCompileInputs.cache
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\CsharpIntro.dll
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\ref\CsharpIntro.dll
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\CsharpIntro.pdb
+A:\workspace\.net\CsharpIntro\CsharpIntro\obj\Debug\net5.0\CsharpIntro.genruntimeconfig.cache
