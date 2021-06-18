@@ -1,0 +1,16 @@
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\bin\Debug\net5.0\Estrutura_Condicoes.exe
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\bin\Debug\net5.0\Estrutura_Condicoes.deps.json
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\bin\Debug\net5.0\Estrutura_Condicoes.runtimeconfig.json
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\bin\Debug\net5.0\Estrutura_Condicoes.runtimeconfig.dev.json
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\bin\Debug\net5.0\Estrutura_Condicoes.dll
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\bin\Debug\net5.0\ref\Estrutura_Condicoes.dll
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\bin\Debug\net5.0\Estrutura_Condicoes.pdb
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\obj\Debug\net5.0\Estrutura_Condicoes.csprojAssemblyReference.cache
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\obj\Debug\net5.0\Estrutura_Condicoes.GeneratedMSBuildEditorConfig.editorconfig
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\obj\Debug\net5.0\Estrutura_Condicoes.AssemblyInfoInputs.cache
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\obj\Debug\net5.0\Estrutura_Condicoes.AssemblyInfo.cs
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\obj\Debug\net5.0\Estrutura_Condicoes.csproj.CoreCompileInputs.cache
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\obj\Debug\net5.0\Estrutura_Condicoes.dll
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\obj\Debug\net5.0\ref\Estrutura_Condicoes.dll
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\obj\Debug\net5.0\Estrutura_Condicoes.pdb
+A:\workspace\.net\CsharpIntro\Estrutura_Condicoes\obj\Debug\net5.0\Estrutura_Condicoes.genruntimeconfig.cache

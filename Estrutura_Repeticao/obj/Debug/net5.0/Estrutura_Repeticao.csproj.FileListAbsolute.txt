@@ -1,0 +1,15 @@
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\bin\Debug\net5.0\Estrutura_Repeticao.exe
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\bin\Debug\net5.0\Estrutura_Repeticao.deps.json
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\bin\Debug\net5.0\Estrutura_Repeticao.runtimeconfig.json
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\bin\Debug\net5.0\Estrutura_Repeticao.runtimeconfig.dev.json
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\bin\Debug\net5.0\Estrutura_Repeticao.dll
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\bin\Debug\net5.0\ref\Estrutura_Repeticao.dll
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\bin\Debug\net5.0\Estrutura_Repeticao.pdb
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\obj\Debug\net5.0\Estrutura_Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\obj\Debug\net5.0\Estrutura_Repeticao.AssemblyInfoInputs.cache
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\obj\Debug\net5.0\Estrutura_Repeticao.AssemblyInfo.cs
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\obj\Debug\net5.0\Estrutura_Repeticao.csproj.CoreCompileInputs.cache
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\obj\Debug\net5.0\Estrutura_Repeticao.dll
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\obj\Debug\net5.0\ref\Estrutura_Repeticao.dll
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\obj\Debug\net5.0\Estrutura_Repeticao.pdb
+A:\workspace\.net\CsharpIntro\Estrutura_Repeticao\obj\Debug\net5.0\Estrutura_Repeticao.genruntimeconfig.cache
