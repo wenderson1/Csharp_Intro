@@ -15,7 +15,7 @@ namespace Linq
                 new Student(3,"Bianca","1234443243243",85),
                 new Student(4,"Helena","1234443243243",70),
                 new Student(5,"Roberto","1234443243243",55),
-                new Student(6,"Pedro","1234443243243",87),
+                new Student(6,"luis","1234443243243",87),
             };
 
             var any = students.Any();
@@ -23,6 +23,25 @@ namespace Linq
 
             var single = students.Single(s => s.Id == 1);
             var singleDefault = students.SingleOrDefault(s => s.Grade == 0);
+
+            var first = students.First(s => s.FullName == "Luis");
+            var firstOrDefault = students.FirstOrDefault(s => s.Grade == 0);
+
+            var orderedByGrade = students.OrderBy(s => s.Grade);
+            var orderedByGradeDescending = students.OrderByDescending(s => s.Grade);
+
+            var approvedStudents = students.Where(s => s.Grade >= 70);
+
+            var grades = students.Select(s => s.Grade);
+            var phoneNumbers = students.SelectMany(s => s.PhoneNumbers) ;
+
+            var sum = students.Sum(s => s.Grade);
+            var min = students.Min(s => s.Grade);
+            var max = students.Max(s => s.Grade);
+            var count = students.Count;
+           
+
+
 
 
 
