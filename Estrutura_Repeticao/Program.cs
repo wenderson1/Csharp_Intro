@@ -43,9 +43,6 @@ namespace Estrutura_Repeticao
             }
             #endregion
 
-
-
-
             Console.ReadKey();
         }
     }

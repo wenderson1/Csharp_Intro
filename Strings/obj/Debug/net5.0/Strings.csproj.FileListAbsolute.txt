@@ -1,0 +1,16 @@
+A:\workspace\.net\CsharpIntro\Strings\bin\Debug\net5.0\Strings.exe
+A:\workspace\.net\CsharpIntro\Strings\bin\Debug\net5.0\Strings.deps.json
+A:\workspace\.net\CsharpIntro\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+A:\workspace\.net\CsharpIntro\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+A:\workspace\.net\CsharpIntro\Strings\bin\Debug\net5.0\Strings.dll
+A:\workspace\.net\CsharpIntro\Strings\bin\Debug\net5.0\ref\Strings.dll
+A:\workspace\.net\CsharpIntro\Strings\bin\Debug\net5.0\Strings.pdb
+A:\workspace\.net\CsharpIntro\Strings\obj\Debug\net5.0\Strings.csprojAssemblyReference.cache
+A:\workspace\.net\CsharpIntro\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+A:\workspace\.net\CsharpIntro\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+A:\workspace\.net\CsharpIntro\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+A:\workspace\.net\CsharpIntro\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+A:\workspace\.net\CsharpIntro\Strings\obj\Debug\net5.0\Strings.dll
+A:\workspace\.net\CsharpIntro\Strings\obj\Debug\net5.0\ref\Strings.dll
+A:\workspace\.net\CsharpIntro\Strings\obj\Debug\net5.0\Strings.pdb
+A:\workspace\.net\CsharpIntro\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache

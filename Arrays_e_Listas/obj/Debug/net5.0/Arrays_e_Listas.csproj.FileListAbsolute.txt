@@ -1,0 +1,16 @@
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\bin\Debug\net5.0\Arrays_e_Listas.exe
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\bin\Debug\net5.0\Arrays_e_Listas.deps.json
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\bin\Debug\net5.0\Arrays_e_Listas.runtimeconfig.json
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\bin\Debug\net5.0\Arrays_e_Listas.runtimeconfig.dev.json
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\bin\Debug\net5.0\Arrays_e_Listas.dll
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\bin\Debug\net5.0\ref\Arrays_e_Listas.dll
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\bin\Debug\net5.0\Arrays_e_Listas.pdb
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\obj\Debug\net5.0\Arrays_e_Listas.csprojAssemblyReference.cache
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\obj\Debug\net5.0\Arrays_e_Listas.GeneratedMSBuildEditorConfig.editorconfig
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\obj\Debug\net5.0\Arrays_e_Listas.AssemblyInfoInputs.cache
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\obj\Debug\net5.0\Arrays_e_Listas.AssemblyInfo.cs
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\obj\Debug\net5.0\Arrays_e_Listas.csproj.CoreCompileInputs.cache
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\obj\Debug\net5.0\Arrays_e_Listas.dll
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\obj\Debug\net5.0\ref\Arrays_e_Listas.dll
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\obj\Debug\net5.0\Arrays_e_Listas.pdb
+A:\workspace\.net\CsharpIntro\Arrays_e_Listas\obj\Debug\net5.0\Arrays_e_Listas.genruntimeconfig.cache
