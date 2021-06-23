@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estrutura_Repeticao", "Estr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{2EB81222-A4F9-40E8-96EB-F5F8D702757B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_e_Listas", "Arrays_e_Listas\Arrays_e_Listas.csproj", "{E2FB6A3B-91CD-4B24-BF38-9423F2029CBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_e_Listas", "Arrays_e_Listas\Arrays_e_Listas.csproj", "{E2FB6A3B-91CD-4B24-BF38-9423F2029CBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{B49A4819-5551-4C2B-ABA4-E0733C3E34DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{B49A4819-5551-4C2B-ABA4-E0733C3E34DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datas", "Datas\Datas.csproj", "{982E07FA-983B-46C9-9C1C-8691104C4C52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B49A4819-5551-4C2B-ABA4-E0733C3E34DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B49A4819-5551-4C2B-ABA4-E0733C3E34DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B49A4819-5551-4C2B-ABA4-E0733C3E34DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982E07FA-983B-46C9-9C1C-8691104C4C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982E07FA-983B-46C9-9C1C-8691104C4C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982E07FA-983B-46C9-9C1C-8691104C4C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982E07FA-983B-46C9-9C1C-8691104C4C52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

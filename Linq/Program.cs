@@ -39,11 +39,6 @@ namespace Linq
             var min = students.Min(s => s.Grade);
             var max = students.Max(s => s.Grade);
             var count = students.Count;
-           
-
-
-
-
 
             Console.ReadKey();
         }

@@ -1,0 +1,15 @@
+A:\workspace\.net\CsharpIntro\Datas\bin\Debug\net5.0\Datas.exe
+A:\workspace\.net\CsharpIntro\Datas\bin\Debug\net5.0\Datas.deps.json
+A:\workspace\.net\CsharpIntro\Datas\bin\Debug\net5.0\Datas.runtimeconfig.json
+A:\workspace\.net\CsharpIntro\Datas\bin\Debug\net5.0\Datas.runtimeconfig.dev.json
+A:\workspace\.net\CsharpIntro\Datas\bin\Debug\net5.0\Datas.dll
+A:\workspace\.net\CsharpIntro\Datas\bin\Debug\net5.0\ref\Datas.dll
+A:\workspace\.net\CsharpIntro\Datas\bin\Debug\net5.0\Datas.pdb
+A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.AssemblyInfoInputs.cache
+A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.AssemblyInfo.cs
+A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.csproj.CoreCompileInputs.cache
+A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.dll
+A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\ref\Datas.dll
+A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.pdb
+A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.genruntimeconfig.cache
