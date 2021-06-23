@@ -1,0 +1,16 @@
+A:\workspace\.net\CsharpIntro\Diretorios\obj\Debug\net5.0\Diretorios.GeneratedMSBuildEditorConfig.editorconfig
+A:\workspace\.net\CsharpIntro\Diretorios\obj\Debug\net5.0\Diretorios.AssemblyInfoInputs.cache
+A:\workspace\.net\CsharpIntro\Diretorios\obj\Debug\net5.0\Diretorios.AssemblyInfo.cs
+A:\workspace\.net\CsharpIntro\Diretorios\obj\Debug\net5.0\Diretorios.csproj.CoreCompileInputs.cache
+A:\workspace\.net\CsharpIntro\Diretorios\bin\Debug\net5.0\Diretorios.exe
+A:\workspace\.net\CsharpIntro\Diretorios\bin\Debug\net5.0\Diretorios.deps.json
+A:\workspace\.net\CsharpIntro\Diretorios\bin\Debug\net5.0\Diretorios.runtimeconfig.json
+A:\workspace\.net\CsharpIntro\Diretorios\bin\Debug\net5.0\Diretorios.runtimeconfig.dev.json
+A:\workspace\.net\CsharpIntro\Diretorios\bin\Debug\net5.0\Diretorios.dll
+A:\workspace\.net\CsharpIntro\Diretorios\bin\Debug\net5.0\ref\Diretorios.dll
+A:\workspace\.net\CsharpIntro\Diretorios\bin\Debug\net5.0\Diretorios.pdb
+A:\workspace\.net\CsharpIntro\Diretorios\obj\Debug\net5.0\Diretorios.dll
+A:\workspace\.net\CsharpIntro\Diretorios\obj\Debug\net5.0\ref\Diretorios.dll
+A:\workspace\.net\CsharpIntro\Diretorios\obj\Debug\net5.0\Diretorios.pdb
+A:\workspace\.net\CsharpIntro\Diretorios\obj\Debug\net5.0\Diretorios.genruntimeconfig.cache
+A:\workspace\.net\CsharpIntro\Diretorios\obj\Debug\net5.0\Diretorios.csprojAssemblyReference.cache
