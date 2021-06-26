@@ -1,0 +1,15 @@
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.exe
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.deps.json
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.runtimeconfig.json
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.runtimeconfig.dev.json
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.dll
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\bin\Debug\net5.0\ref\DebugandoAplicacoes.dll
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\bin\Debug\net5.0\DebugandoAplicacoes.pdb
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.GeneratedMSBuildEditorConfig.editorconfig
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.AssemblyInfoInputs.cache
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.AssemblyInfo.cs
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.csproj.CoreCompileInputs.cache
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.dll
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\obj\Debug\net5.0\ref\DebugandoAplicacoes.dll
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.pdb
+A:\workspace\.net\CsharpIntro\DebugandoAplicacoes\obj\Debug\net5.0\DebugandoAplicacoes.genruntimeconfig.cache

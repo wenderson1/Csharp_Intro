@@ -1,0 +1,16 @@
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\bin\Debug\net5.0\Tratamento_Excecoes.exe
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\bin\Debug\net5.0\Tratamento_Excecoes.deps.json
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\bin\Debug\net5.0\Tratamento_Excecoes.runtimeconfig.json
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\bin\Debug\net5.0\Tratamento_Excecoes.runtimeconfig.dev.json
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\bin\Debug\net5.0\Tratamento_Excecoes.dll
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\bin\Debug\net5.0\ref\Tratamento_Excecoes.dll
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\bin\Debug\net5.0\Tratamento_Excecoes.pdb
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\obj\Debug\net5.0\Tratamento_Excecoes.csprojAssemblyReference.cache
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\obj\Debug\net5.0\Tratamento_Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\obj\Debug\net5.0\Tratamento_Excecoes.AssemblyInfoInputs.cache
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\obj\Debug\net5.0\Tratamento_Excecoes.AssemblyInfo.cs
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\obj\Debug\net5.0\Tratamento_Excecoes.csproj.CoreCompileInputs.cache
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\obj\Debug\net5.0\Tratamento_Excecoes.dll
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\obj\Debug\net5.0\ref\Tratamento_Excecoes.dll
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\obj\Debug\net5.0\Tratamento_Excecoes.pdb
+A:\workspace\.net\CsharpIntro\Tratamento_Excecoes\obj\Debug\net5.0\Tratamento_Excecoes.genruntimeconfig.cache

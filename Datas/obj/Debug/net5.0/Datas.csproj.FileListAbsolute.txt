@@ -13,3 +13,4 @@ A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.dll
 A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\ref\Datas.dll
 A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.pdb
 A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.genruntimeconfig.cache
+A:\workspace\.net\CsharpIntro\Datas\obj\Debug\net5.0\Datas.csprojAssemblyReference.cache
